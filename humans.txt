@@ -3,10 +3,10 @@
 
 
 /* TEAM */
-  Developer: Ben Yarbrough
-  Site: http://benyarb.com
-  Twitter: @benyarb
-  Location: Atlanta, GA, USA
+  Developer: [Your Name]
+  Site: [you@example.com]
+  Twitter: @[You]
+  Location: [Your Location]
 
 /* THANKS */
   Names (& URL):
@@ -14,4 +14,4 @@
 /* SITE */
   Standards: HTML5, CSS3
   Components: Modernizr, jQuery, Twitter Bootstrap, HTML5Boilerplate
-  Software: Sublime Text 2, Vim, Mac, Linux
+  Software: [Your Software]
