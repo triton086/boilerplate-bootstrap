@@ -2,6 +2,12 @@
 
 A combination of HTML5 Boilerplate and Twitter Bootstrap. This setup uses the Less version of Bootstrap with the addition of a Main.less file, which should house your site-specific styles. This file is imported into the Bootstrap.less file to grant access to all the great Bootstrap mixins.
 
+Some notable files:
+* [main.less](https://github.com/benyarb/boilerplate-bootstrap/blob/master/styles/less/main.less) - mentioned above, houses your main styles.
+* [variables.less](https://github.com/benyarb/boilerplate-bootstrap/blob/master/styles/less/variables.less) - customize Bootstrap with your own colors, fonts, etc.
+* [mixins.less](https://github.com/benyarb/boilerplate-bootstrap/blob/master/styles/less/mixins.less) - a ton of indispensable reusable mixins via bootstrap ([CSS3](https://github.com/benyarb/boilerplate-bootstrap/blob/master/styles/less/mixins.less#L195)!).
+
+
 View a [demo](http://benyarbrough.com/boilerplate-bootstrap/).
 
 
