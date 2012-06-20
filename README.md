@@ -1,6 +1,6 @@
 # [Boilerplate-Bootstrap](http://benyarbrough.com/boilerplate-bootstrap/)
 
-A combination of HTML5Boilerplate and Twitter Bootstrap.
+A combination of HTML5 Boilerplate and Twitter Bootstrap. This setup uses the Less version of Bootstrap with the addition of a Main.less file, which should house your site-specific styles. This file is imported into the Bootstrap.less file to grant access to all the great Bootstrap mixins.
 
 View a [demo](http://benyarbrough.com/boilerplate-bootstrap/).
 
